@@ -44,3 +44,21 @@ table {
     border: 1px solid rgba(0, 0, 0, 0.03);
     padding: 9px 12px;
 }
+.entry_content_page ol li::before, .entry_content_page ul li::before {
+    color: #01923e;
+    content: "";
+    font-family: FontAwesome;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    left: 0;
+    padding-right: 0.5em;
+    position: absolute;
+    text-decoration: inherit;
+    top: 0;
+}
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
