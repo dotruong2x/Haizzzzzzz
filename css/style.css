@@ -682,17 +682,19 @@ i.fas.fa-globe-americas {
 {
     color:#01923e; 
 }
-a.special
-{
-    margin-left: 3% ;
-}
 .footer__wrap-info li i.check,
 .footer__detail-service--text li i.check,
 .footer__detail-support--text li i.check,
 .footer__detail-design--text li i.check{
     color: #333;
-    font-size: 2rem;
     margin-right: 2%;
+}
+
+.footer__wrap-info li i.check,
+.footer__detail-service--text li i,
+.footer__detail-support--text li i,
+.footer__detail-design--text li i{
+    padding-right: 0.5rem;
 }
 
 .footer__detail-info--title,
