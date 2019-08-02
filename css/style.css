@@ -796,3 +796,21 @@ tbody  {
 {
     line-height: 2rem;
 }
+
+.bang-gia{
+    border: #767676 solid 1px;
+}
+.bang-gia tr td{
+    border: #767676 solid 1px;
+    font-weight: bold;
+    font-family: inherit;
+}
+.col1{
+    width: 10%;
+}
+.col2{
+    width: 60%;
+}
+.col3{
+    width: 30%;
+}
