@@ -1,0 +1,10 @@
+.time {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.far.fa-calendar-alt {
+	padding-right: 1rem;
+}
