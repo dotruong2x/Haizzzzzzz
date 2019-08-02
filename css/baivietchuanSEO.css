@@ -1,0 +1,129 @@
+.time {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 1%;
+}
+
+.far.fa-calendar-alt {
+	padding-right: 1rem;
+}
+.mucluc
+{
+	width: 100%;
+	height: auto;
+	padding: 1rem;
+	margin-bottom: 13.3px;
+	border:solid 1px #ccc;
+	background-color: #edf6ff;
+}
+
+.mucluc a:hover
+{
+	color: #01923e;
+}
+.mucluc .menu-con
+{
+	padding-left: 7%;
+}
+.gioithieu
+{
+	margin-bottom: 1rem;
+
+}
+.group_news_content .entry_content_show ul {
+    list-style-type: square;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+.list1
+{
+	padding: 0px 0px 15px 25px;
+	width: 100%;
+	height: auto;
+
+}
+.list1 i
+{
+	font-size: 14px;
+	color:#01923e;
+}
+.thiet-ke-web-title
+{
+	width: 100%;
+	height: auto;
+	margin-bottom: 1rem;
+}
+.thiet-ke-web-title a
+{
+	color:#01923e;
+	font-size:20px;
+}
+.thiet-ke-web-title a:hover
+{
+	color:#ffc10e;
+}
+.specal_list_content
+{
+	width: 100%;
+	height: auto;
+	padding:0px 0px 15px 25px ;
+	color: #01923e;
+}
+ img.size-full.wp-image-2231.aligncenter
+{
+	margin: auto;
+}
+.muc-tieu
+{
+	width: 100%;
+	height: auto;
+	padding:10px 0px 15px 0px;
+}
+.muc-tieu .text-h3
+{
+	width: 100%;
+	height: auto;
+	font-size:26px;
+	font-weight: 600;
+}
+.clean__main ul.gioithieu-2 {
+    list-style-type: square;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    }
+ .clean__main p {
+    margin-bottom: 10px;
+    display: block;
+    font-size: 15px;
+    line-height: 20px;
+}
+.gioithieu-2
+{
+	width: 100%;
+	height: auto;
+	padding: 2% 0;
+}
+strong
+{
+	font-weight: 600;
+}
+
+.container .row {
+    margin-left: -5px;
+    margin-right: -5px;
+}
+.clearfix, .clear {
+    zoom: 1;
+}
+.list_prev_nex {
+    display: block;
+    padding: 5px 0;
+}
+.time
+{
+	width: 100%;
+	height: auto;
+	padding:15px 0px 20px 0;
+}

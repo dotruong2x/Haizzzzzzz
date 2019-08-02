@@ -146,5 +146,5 @@ function hoverOut() {
   }
 }
 
-// #ffc10e
-//  #01923e
+// #ffc10e:vang
+//  #01923e:xanh
